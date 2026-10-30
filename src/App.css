@@ -1,0 +1,41 @@
+
+#root {
+  width: 100%;
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+.app {
+  width: 100%;
+  min-height: 100vh;
+  padding-top: 85px;
+}
+
+section {
+  width: 100%;
+}
+
+button,
+a {
+  -webkit-tap-highlight-color: transparent;
+}
+
+button {
+  font-family: inherit;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+::selection {
+  background: #ff6b00;
+  color: #ffffff;
+}
+
+@media (max-width: 768px) {
+  .app {
+    padding-top: 75px;
+  }
+}

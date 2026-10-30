@@ -1,4 +1,3 @@
-
 export const weeklySchedule = [
   {
     id: 1,

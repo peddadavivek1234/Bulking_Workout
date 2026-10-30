@@ -1,4 +1,3 @@
-
 export const workoutPlans = [
   {
     id: 1,

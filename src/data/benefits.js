@@ -1,4 +1,3 @@
-
 export const benefits = [
   {
     id: 1,
